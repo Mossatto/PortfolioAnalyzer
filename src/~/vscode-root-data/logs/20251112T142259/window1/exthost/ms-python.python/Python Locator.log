@@ -1,0 +1,31 @@
+2025-11-12 14:23:07.483 [info] Starting Python Locator /root/.vscode/extensions/ms-python.python-2025.6.0-linux-x64/python-env-tools/bin/pet server
+2025-11-12 14:23:08.311 [info] Discovered env: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:23:08.328 [info] Discovered env: /usr/bin/python3
+2025-11-12 14:23:08.333 [info] Discovered env: /bin/python3
+2025-11-12 14:23:08.343 [info] Discovered env: /bin/python3.10
+2025-11-12 14:23:08.349 [info] Discovered env: /usr/bin/python3.10
+2025-11-12 14:23:08.377 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:23:08.381 [info] Locator Conda took 51.355522ms
+2025-11-12 14:23:08.381 [info] Locator Homebrew took 313.287µs
+2025-11-12 14:23:08.381 [info] Locator LinuxGlobal took 193.859508ms
+2025-11-12 14:23:08.381 [info] Locator PipEnv took 26.311µs
+2025-11-12 14:23:08.381 [info] Locator Pixi took 207.416µs
+2025-11-12 14:23:08.381 [info] Locator Poetry took 1.622755ms
+2025-11-12 14:23:08.381 [info] Locator PyEnv took 992.761µs
+2025-11-12 14:23:08.381 [info] Locator Venv took 480.364µs
+2025-11-12 14:23:08.381 [info] Locator VirtualEnv took 63.16µs
+2025-11-12 14:23:08.381 [info] Locator VirtualEnvWrapper took 43.898µs
+2025-11-12 14:23:08.381 [info] Locator GlobalVirtualEnvs took 30.603776ms
+2025-11-12 14:23:08.381 [info] Locator Locators took 195.789967ms
+2025-11-12 14:23:08.381 [info] Locator Path took 243.618727ms
+2025-11-12 14:23:08.381 [info] Locator Workspaces took 2.298809ms
+2025-11-12 14:23:08.382 [info] Refresh completed in 243ms
+2025-11-12 14:23:08.389 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:27:47.559 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:49:25.028 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:59:41.632 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 15:12:36.249 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 15:22:08.496 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 15:22:49.276 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 15:25:47.054 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 15:39:51.032 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python

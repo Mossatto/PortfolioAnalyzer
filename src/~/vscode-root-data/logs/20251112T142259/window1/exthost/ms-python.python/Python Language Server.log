@@ -1,0 +1,67 @@
+2025-11-12 14:23:09.108 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.6.0)
+2025-11-12 14:23:09.287 [info] [Info  - 2:23:09 PM] (246945) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-11-12 14:23:09.287 [info] [Info  - 2:23:09 PM] (246945) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-11-12 14:23:09.287 [info] [Info  - 2:23:09 PM] (246945) Starting service instance "src" for workspace "/home/mossatto/portfolioAnalyzer/src"
+2025-11-12 14:23:09.372 [info] [Info  - 2:23:09 PM] (246945) Setting environmentName for service "src": "3.11.6 (venv venv)"
+2025-11-12 14:23:09.372 [info] [Info  - 2:23:09 PM] (246945) Setting pythonPath for service "src": "/home/mossatto/portfolioAnalyzer/venv/bin/python"
+2025-11-12 14:23:09.373 [info] [Info  - 2:23:09 PM] (246945) No include entries specified; assuming /home/mossatto/portfolioAnalyzer/src
+2025-11-12 14:23:09.373 [info] [Info  - 2:23:09 PM] (246945) Auto-excluding **/node_modules
+2025-11-12 14:23:09.374 [info] [Info  - 2:23:09 PM] (246945) Auto-excluding **/__pycache__
+2025-11-12 14:23:09.374 [info] [Info  - 2:23:09 PM] (246945) Auto-excluding **/.*
+2025-11-12 14:23:09.396 [info] [Info  - 2:23:09 PM] (246945) Assuming Python version 3.11.6.final.0
+2025-11-12 14:23:09.522 [info] [Info  - 2:23:09 PM] (246945) Found 2 source files
+2025-11-12 14:23:09.552 [info] [Info  - 2:23:09 PM] (246945) Setting environmentName for service "src": "3.11.6 (venv venv)"
+2025-11-12 14:23:09.552 [info] [Info  - 2:23:09 PM] (246945) Setting pythonPath for service "src": "/home/mossatto/portfolioAnalyzer/venv/bin/python"
+2025-11-12 14:23:09.552 [info] [Info  - 2:23:09 PM] (246945) No include entries specified; assuming /home/mossatto/portfolioAnalyzer/src
+2025-11-12 14:23:09.553 [info] [Info  - 2:23:09 PM] (246945) Auto-excluding **/node_modules
+2025-11-12 14:23:09.553 [info] [Info  - 2:23:09 PM] (246945) Auto-excluding **/__pycache__
+2025-11-12 14:23:09.553 [info] [Info  - 2:23:09 PM] (246945) Auto-excluding **/.*
+2025-11-12 14:23:09.579 [info] [Info  - 2:23:09 PM] (246945) Assuming Python version 3.11.6.final.0
+2025-11-12 14:23:09.652 [info] [Info  - 2:23:09 PM] (246945) Found 2 source files
+2025-11-12 14:23:10.113 [info] [Info  - 2:23:10 PM] Server process exited successfully
+2025-11-12 14:23:10.563 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.6.0)
+2025-11-12 14:23:10.775 [info] [Info  - 2:23:10 PM] (246988) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-11-12 14:23:10.777 [info] [Info  - 2:23:10 PM] (246988) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-11-12 14:23:10.782 [info] [Info  - 2:23:10 PM] (246988) Starting service instance "src" for workspace "/home/mossatto/portfolioAnalyzer/src"
+2025-11-12 14:23:10.827 [info] [Info  - 2:23:10 PM] (246988) Setting environmentName for service "src": "3.11.6 (venv venv)"
+2025-11-12 14:23:10.827 [info] [Info  - 2:23:10 PM] (246988) Setting pythonPath for service "src": "/home/mossatto/portfolioAnalyzer/venv/bin/python"
+2025-11-12 14:23:10.828 [info] [Info  - 2:23:10 PM] (246988) No include entries specified; assuming /home/mossatto/portfolioAnalyzer/src
+2025-11-12 14:23:10.828 [info] [Info  - 2:23:10 PM] (246988) Auto-excluding **/node_modules
+2025-11-12 14:23:10.828 [info] [Info  - 2:23:10 PM] (246988) Auto-excluding **/__pycache__
+2025-11-12 14:23:10.828 [info] [Info  - 2:23:10 PM] (246988) Auto-excluding **/.*
+2025-11-12 14:23:10.851 [info] [Info  - 2:23:10 PM] (246988) Assuming Python version 3.11.6.final.0
+2025-11-12 14:23:10.930 [info] [Info  - 2:23:10 PM] (246988) Found 2 source files
+2025-11-12 14:23:10.949 [info] [Info  - 2:23:10 PM] (246988) Setting environmentName for service "src": "3.11.6 (venv venv)"
+2025-11-12 14:23:10.949 [info] [Info  - 2:23:10 PM] (246988) Setting pythonPath for service "src": "/home/mossatto/portfolioAnalyzer/venv/bin/python"
+2025-11-12 14:23:10.950 [info] [Info  - 2:23:10 PM] (246988) No include entries specified; assuming /home/mossatto/portfolioAnalyzer/src
+2025-11-12 14:23:10.950 [info] [Info  - 2:23:10 PM] (246988) Auto-excluding **/node_modules
+2025-11-12 14:23:10.950 [info] [Info  - 2:23:10 PM] (246988) Auto-excluding **/__pycache__
+2025-11-12 14:23:10.950 [info] [Info  - 2:23:10 PM] (246988) Auto-excluding **/.*
+2025-11-12 14:23:10.973 [info] [Info  - 2:23:10 PM] (246988) Assuming Python version 3.11.6.final.0
+2025-11-12 14:23:11.061 [info] [Info  - 2:23:11 PM] (246988) Found 2 source files
+2025-11-12 14:23:11.648 [info] [Info  - 2:23:11 PM] (246988) BG: Priority queue background worker(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-11-12 14:23:11.650 [info] [Info  - 2:23:11 PM] (246988) BG: Priority queue background worker(2) started
+2025-11-12 14:23:11.854 [info] [Info  - 2:23:11 PM] (246988) BG: Indexer background runner(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-11-12 14:23:11.854 [info] [Info  - 2:23:11 PM] (246988) BG: Indexing(3) started
+2025-11-12 14:23:12.470 [info] [Info  - 2:23:12 PM] (246988) BG: scanned(3) 20 files over 1 exec env
+2025-11-12 14:23:13.303 [info] [Info  - 2:23:13 PM] (246988) BG: indexed(3) 20 files over 1 exec env
+2025-11-12 14:23:13.318 [info] [Info  - 2:23:13 PM] (246988) BG: Indexing finished(3).
+2025-11-12 14:23:33.854 [info] [Info  - 2:23:33 PM] (246988) Found 3 source files
+2025-11-12 14:25:02.909 [info] [Info  - 2:25:02 PM] (246988) Found 4 source files
+2025-11-12 14:27:41.412 [info] [Info  - 2:27:41 PM] (246988) Found 5 source files
+2025-11-12 14:27:50.261 [info] [Info  - 2:27:50 PM] (246988) Found 6 source files
+2025-11-12 14:42:37.008 [info] [Info  - 2:42:37 PM] (246988) Found 6 source files
+2025-11-12 14:42:41.009 [info] [Info  - 2:42:41 PM] (246988) Found 6 source files
+2025-11-12 14:42:45.899 [info] [Info  - 2:42:45 PM] (246988) Found 6 source files
+2025-11-12 14:42:51.503 [info] [Info  - 2:42:51 PM] (246988) BG: Indexer background runner(4) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-11-12 14:42:51.503 [info] [Info  - 2:42:51 PM] (246988) BG: Indexing(4) started
+2025-11-12 14:42:51.672 [info] [Info  - 2:42:51 PM] (246988) BG: scanned(4) 20 files over 1 exec env
+2025-11-12 14:42:51.786 [info] [Info  - 2:42:51 PM] (246988) BG: indexed(4) 20 files over 1 exec env
+2025-11-12 14:42:51.801 [info] [Info  - 2:42:51 PM] (246988) BG: Indexing finished(4).
+2025-11-12 15:08:06.631 [info] [Info  - 3:08:06 PM] (246988) Found 7 source files
+2025-11-12 15:12:02.245 [info] [Info  - 3:12:02 PM] (246988) Found 8 source files
+2025-11-12 15:26:12.811 [info] [Info  - 3:26:12 PM] (246988) Found 9 source files
+2025-11-12 15:31:51.176 [info] [Info  - 3:31:51 PM] (246988) Found 10 source files
+2025-11-12 15:32:13.844 [info] [Info  - 3:32:13 PM] (246988) Found 11 source files
+2025-11-12 15:32:50.452 [info] [Info  - 3:32:50 PM] (246988) Found 12 source files
+2025-11-12 15:39:37.390 [info] [Info  - 3:39:37 PM] (246988) Found 12 source files

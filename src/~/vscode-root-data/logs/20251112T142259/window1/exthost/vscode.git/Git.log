@@ -1,0 +1,20 @@
+2025-11-12 14:23:04.341 [info] [main] Log level: Info
+2025-11-12 14:23:04.341 [info] [main] Validating found git in: "git"
+2025-11-12 14:23:04.341 [info] [main] Using git "2.40.1" from "git"
+2025-11-12 14:23:04.341 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-12 14:23:04.341 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-12 14:23:04.344 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-12 14:23:04.346 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-11-12 14:23:06.177 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-12 14:23:07.530 [info] > git rev-parse --show-toplevel [9ms]
+2025-11-12 14:23:08.301 [info] > git rev-parse --show-toplevel [17ms]
+2025-11-12 14:23:09.746 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-12 14:27:47.556 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-12 14:49:25.026 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-12 14:49:34.624 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-12 14:59:41.631 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-12 15:12:36.247 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-12 15:22:08.494 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-12 15:22:49.274 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-12 15:25:47.052 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-12 15:39:51.030 [info] > git rev-parse --show-toplevel [2ms]

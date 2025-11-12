@@ -1,0 +1,118 @@
+2025-11-12 14:23:10.010 [info] 
+=== Python Envs Configuration Levels ===
+2025-11-12 14:23:10.010 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2025-11-12 14:23:10.010 [info] [pet] Starting Python Locator /root/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/python-env-tools/bin/pet server
+2025-11-12 14:23:10.054 [info] getAllExtraSearchPaths completed. Total unique search directories: 0 Paths: []
+2025-11-12 14:23:10.055 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/mossatto/portfolioAnalyzer/src"],"environmentDirectories":[],"poetryExecutable":"poetry","cacheDirectory":"/home/mossatto/portfolioAnalyzer/src/~/vscode-root-data/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2025-11-12 14:23:10.087 [info] Discovered env: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:23:10.134 [info] Discovered env: /bin/python3
+2025-11-12 14:23:10.140 [info] Discovered env: /usr/bin/python3
+2025-11-12 14:23:10.180 [info] Discovered env: /bin/python3.10
+2025-11-12 14:23:10.180 [info] Discovered env: /usr/bin/python3.10
+2025-11-12 14:23:10.215 [info] [pet] Locator Conda took 44.249936ms
+2025-11-12 14:23:10.215 [info] [pet] Locator Homebrew took 387.639µs
+2025-11-12 14:23:10.215 [info] [pet] Locator LinuxGlobal took 114.370606ms
+2025-11-12 14:23:10.215 [info] [pet] Locator PipEnv took 39.992µs
+2025-11-12 14:23:10.215 [info] [pet] Locator Pixi took 235.976µs
+2025-11-12 14:23:10.215 [info] [pet] Locator Poetry took 1.128857ms
+2025-11-12 14:23:10.215 [info] [pet] Locator PyEnv took 304.723µs
+2025-11-12 14:23:10.215 [info] [pet] Locator Venv took 42.575µs
+2025-11-12 14:23:10.215 [info] [pet] Locator VirtualEnv took 52.974µs
+2025-11-12 14:23:10.216 [info] [pet] Locator VirtualEnvWrapper took 36.224µs
+2025-11-12 14:23:10.216 [info] [pet] Locator GlobalVirtualEnvs took 32.629707ms
+2025-11-12 14:23:10.216 [info] [pet] Locator Locators took 116.54959ms
+2025-11-12 14:23:10.216 [info] [pet] Locator Path took 155.766294ms
+2025-11-12 14:23:10.216 [info] [pet] Locator Workspaces took 2.339512ms
+2025-11-12 14:23:10.216 [info] getAllExtraSearchPaths completed. Total unique search directories: 0 Paths: []
+2025-11-12 14:23:10.217 [info] Conda not found, turning off conda features. [Error: Conda not found
+	at R (/root/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:529904)
+	at async L (/root/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:530029)
+	at async t.registerCondaFeatures (/root/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:546478)
+	at async Promise.all (index 1)
+	at async Immediate.<anonymous> (/root/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:678817)]
+2025-11-12 14:23:10.218 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":155,"breakdown":{"GlobalVirtualEnvs":32,"Locators":116,"Path":155,"Workspaces":2},"locators":{"Conda":44,"Homebrew":0,"LinuxGlobal":114,"PipEnv":0,"Pixi":0,"Poetry":1,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-11-12 14:23:10.224 [info] Discovered env: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:23:10.264 [info] Discovered env: /bin/python3
+2025-11-12 14:23:10.271 [info] Discovered env: /usr/bin/python3
+2025-11-12 14:23:10.282 [info] Discovered env: /bin/python3.10
+2025-11-12 14:23:10.287 [info] Discovered env: /usr/bin/python3.10
+2025-11-12 14:23:10.315 [info] [pet] Locator Conda took 38.913726ms
+2025-11-12 14:23:10.315 [info] [pet] Locator Homebrew took 729.493µs
+2025-11-12 14:23:10.315 [info] [pet] Locator LinuxGlobal took 66.409695ms
+2025-11-12 14:23:10.315 [info] [pet] Locator PipEnv took 126.817µs
+2025-11-12 14:23:10.315 [info] [pet] Locator Pixi took 37.34µs
+2025-11-12 14:23:10.315 [info] [pet] Locator Poetry took 202.404µs
+2025-11-12 14:23:10.315 [info] [pet] Locator PyEnv took 307.514µs
+2025-11-12 14:23:10.315 [info] [pet] Locator Venv took 70.911µs
+2025-11-12 14:23:10.315 [info] [pet] Locator VirtualEnv took 128.562µs
+2025-11-12 14:23:10.315 [info] [pet] Locator VirtualEnvWrapper took 389.105µs
+2025-11-12 14:23:10.315 [info] [pet] Locator GlobalVirtualEnvs took 9.176025ms
+2025-11-12 14:23:10.316 [info] [pet] Locator Locators took 68.978343ms
+2025-11-12 14:23:10.316 [info] [pet] Locator Path took 96.266395ms
+2025-11-12 14:23:10.316 [info] [pet] Locator Workspaces took 1.748911ms
+2025-11-12 14:23:10.316 [info] getAllExtraSearchPaths completed. Total unique search directories: 0 Paths: []
+2025-11-12 14:23:10.316 [info] Pipenv not found
+2025-11-12 14:23:10.316 [info] Pipenv not found, turning off pipenv features.
+2025-11-12 14:23:10.317 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":96,"breakdown":{"GlobalVirtualEnvs":9,"Locators":68,"Path":96,"Workspaces":1},"locators":{"Conda":38,"Homebrew":0,"LinuxGlobal":66,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-11-12 14:23:10.324 [info] Discovered env: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:23:10.370 [info] Discovered env: /usr/bin/python3
+2025-11-12 14:23:10.371 [info] Discovered env: /bin/python3
+2025-11-12 14:23:10.390 [info] Discovered env: /bin/python3.10
+2025-11-12 14:23:10.391 [info] Discovered env: /usr/bin/python3.10
+2025-11-12 14:23:10.420 [info] [pet] Locator Conda took 45.823174ms
+2025-11-12 14:23:10.420 [info] [pet] Locator Homebrew took 844.513µs
+2025-11-12 14:23:10.420 [info] [pet] Locator LinuxGlobal took 70.264237ms
+2025-11-12 14:23:10.420 [info] [pet] Locator PipEnv took 104.482µs
+2025-11-12 14:23:10.420 [info] [pet] Locator Pixi took 41.807µs
+2025-11-12 14:23:10.420 [info] [pet] Locator Poetry took 1.360993ms
+2025-11-12 14:23:10.420 [info] [pet] Locator PyEnv took 160.807µs
+2025-11-12 14:23:10.420 [info] [pet] Locator Venv took 451.78µs
+2025-11-12 14:23:10.420 [info] [pet] Locator VirtualEnv took 1.00183ms
+2025-11-12 14:23:10.420 [info] [pet] Locator VirtualEnvWrapper took 240.442µs
+2025-11-12 14:23:10.420 [info] [pet] Locator GlobalVirtualEnvs took 11.637329ms
+2025-11-12 14:23:10.420 [info] [pet] Locator Locators took 72.889558ms
+2025-11-12 14:23:10.420 [info] [pet] Locator Path took 102.39917ms
+2025-11-12 14:23:10.421 [info] [pet] Locator Workspaces took 1.465965ms
+2025-11-12 14:23:10.421 [info] getAllExtraSearchPaths completed. Total unique search directories: 0 Paths: []
+2025-11-12 14:23:10.421 [info] Pyenv not found, turning off pyenv features.
+2025-11-12 14:23:10.421 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":102,"breakdown":{"GlobalVirtualEnvs":11,"Locators":72,"Path":102,"Workspaces":1},"locators":{"Conda":45,"Homebrew":0,"LinuxGlobal":70,"PipEnv":0,"Pixi":0,"Poetry":1,"PyEnv":0,"Venv":0,"VirtualEnv":1,"VirtualEnvWrapper":0}}}}
+2025-11-12 14:23:10.428 [info] Discovered env: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 14:23:10.473 [info] Discovered env: /bin/python3
+2025-11-12 14:23:10.476 [info] Discovered env: /usr/bin/python3
+2025-11-12 14:23:10.489 [info] Discovered env: /bin/python3.10
+2025-11-12 14:23:10.492 [info] Discovered env: /usr/bin/python3.10
+2025-11-12 14:23:10.523 [info] [pet] Locator Conda took 45.360925ms
+2025-11-12 14:23:10.523 [info] [pet] Locator Homebrew took 482.56µs
+2025-11-12 14:23:10.523 [info] [pet] Locator LinuxGlobal took 66.986199ms
+2025-11-12 14:23:10.524 [info] [pet] Locator PipEnv took 121.024µs
+2025-11-12 14:23:10.524 [info] [pet] Locator Pixi took 44.599µs
+2025-11-12 14:23:10.524 [info] [pet] Locator Poetry took 484.164µs
+2025-11-12 14:23:10.524 [info] [pet] Locator PyEnv took 121.024µs
+2025-11-12 14:23:10.524 [info] [pet] Locator Venv took 30.989µs
+2025-11-12 14:23:10.524 [info] [pet] Locator VirtualEnv took 33.153µs
+2025-11-12 14:23:10.524 [info] [pet] Locator VirtualEnvWrapper took 226.483µs
+2025-11-12 14:23:10.524 [info] [pet] Locator GlobalVirtualEnvs took 9.16765ms
+2025-11-12 14:23:10.524 [info] [pet] Locator Locators took 69.764788ms
+2025-11-12 14:23:10.524 [info] [pet] Locator Path took 101.328104ms
+2025-11-12 14:23:10.524 [info] [pet] Locator Workspaces took 1.528988ms
+2025-11-12 14:23:10.524 [info] Poetry not found, turning off poetry features.
+2025-11-12 14:23:10.525 [info] [resolveDefaultInterpreter] User configured defaultInterpreterPath: undefined and defaultEnvManager: undefined
+2025-11-12 14:23:10.529 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":101,"breakdown":{"GlobalVirtualEnvs":9,"Locators":69,"Path":101,"Workspaces":1},"locators":{"Conda":45,"Homebrew":0,"LinuxGlobal":66,"PipEnv":0,"Pixi":0,"Poetry":0,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-11-12 14:23:10.530 [info] Found venv environment: venv (3.11.6)
+2025-11-12 14:23:10.536 [info] Python API: Changed environment from undefined to venv (3.11.6) for: /home/mossatto/portfolioAnalyzer/src
+2025-11-12 14:23:10.536 [info] Internal: Changed environment from undefined to venv (3.11.6) for: /home/mossatto/portfolioAnalyzer/src
+2025-11-12 14:23:10.558 [info] Terminal is activated: /home/mossatto/portfolioAnalyzer/venv/bin/python

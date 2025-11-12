@@ -1,0 +1,17 @@
+2025-11-12 14:23:00.939 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-12 14:23:01.113 [info] Started local extension host with pid 246621.
+2025-11-12 14:23:01.615 [error] [EQuimper.react-native-react-redux]: Unknown language in `contributes.react-native-react-redux.language`. Provided value: jsx
+2025-11-12 14:23:01.616 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 14:23:01.616 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 14:23:02.095 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-12 14:23:03.935 [info] Auto updating outdated extensions. bradlc.vscode-tailwindcss, ms-python.debugpy, ms-python.python, ms-python.vscode-pylance, ms-toolsai.jupyter-renderers
+2025-11-12 14:23:04.140 [error] [EQuimper.react-native-react-redux]: Unknown language in `contributes.react-native-react-redux.language`. Provided value: jsx
+2025-11-12 14:23:04.140 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 14:23:04.141 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 14:23:04.209 [info] [perf] Render performance baseline is 144ms
+2025-11-12 14:23:10.938 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-12 14:23:30.528 [info] Auto updating outdated extensions. ms-toolsai.jupyter
+2025-11-12 14:23:33.047 [error] Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64: ScanningExtension: Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64
+    at Bh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75044)
+    at async zh.h (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80286)
+2025-11-12 15:15:10.107 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /root/.vscode/extensions/ms-python.debugpy-2025.8.0-linux-x64/.noConfigDebugAdapterEndpoints)

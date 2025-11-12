@@ -1,0 +1,14 @@
+2025-11-12 15:15:12.318 [info] (Client) Pylance client (2025.9.1) started with python extension (Unknown)
+2025-11-12 15:15:13.202 [info] (250038) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-12 15:15:13.202 [info] (250038) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-12 15:15:13.207 [info] (250038) Starting service instance "db" for workspace "/home/mossatto/portfolioAnalyzer/db"
+2025-11-12 15:15:13.227 [info] Failed to get active python environment for MCP server. MCP server disabled.
+2025-11-12 15:15:13.382 [info] (250038) No include entries specified; assuming /home/mossatto/portfolioAnalyzer/db
+2025-11-12 15:15:13.382 [info] (250038) Auto-excluding **/node_modules
+2025-11-12 15:15:13.382 [info] (250038) Auto-excluding **/__pycache__
+2025-11-12 15:15:13.383 [info] (250038) Auto-excluding **/.*
+2025-11-12 15:15:13.408 [info] (250038) Assuming Python version 3.11.6.final.0
+2025-11-12 15:15:13.460 [info] (250038) Settings have not changed. Skipping update.
+2025-11-12 15:15:13.476 [info] (250038) No source files found.
+2025-11-12 15:15:14.077 [info] (250038) BG: Priority queue background worker(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-12 15:15:14.078 [info] (250038) BG: Priority queue background worker(2) started

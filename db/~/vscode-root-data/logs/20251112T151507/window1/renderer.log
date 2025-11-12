@@ -1,0 +1,15 @@
+2025-11-12 15:15:09.164 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-12 15:15:09.332 [info] Started local extension host with pid 249981.
+2025-11-12 15:15:09.542 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.105.0.
+2025-11-12 15:15:10.175 [error] [EQuimper.react-native-react-redux]: Unknown language in `contributes.react-native-react-redux.language`. Provided value: jsx
+2025-11-12 15:15:10.176 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 15:15:10.176 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 15:15:10.406 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-12 15:15:11.934 [error] [EQuimper.react-native-react-redux]: Unknown language in `contributes.react-native-react-redux.language`. Provided value: jsx
+2025-11-12 15:15:11.935 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 15:15:11.935 [error] [Zarifprogrammer.tailwind-snippets]: Unknown language in `contributes.tailwind-snippets.language`. Provided value: vue
+2025-11-12 15:15:13.811 [info] [perf] Render performance baseline is 153ms
+2025-11-12 15:15:38.244 [info] Auto updating outdated extensions. ms-toolsai.jupyter
+2025-11-12 15:15:42.904 [error] Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64: ScanningExtension: Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64
+    at Bh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75044)
+    at async zh.h (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80286)

@@ -1,0 +1,13 @@
+
+
+# 1. Banco de Dados (PostgreSQL)
+# Utilizado para conectar o Python ao PostgreSQL.
+psycopg2-binary
+
+# 2. Manipulação de Dados
+# Biblioteca padrão da ciência de dados, essencial para cálculos e ETL.
+pandas
+
+# 3. Gerenciamento de Variáveis de Ambiente
+# Para carregar o token/senha do arquivo .env de forma segura (Melhor Prática!)
+python-dotenv
