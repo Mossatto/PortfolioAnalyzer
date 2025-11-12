@@ -1,0 +1,9 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Arquivos de Segurança
+.env
+token.txt
