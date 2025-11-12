@@ -1,4 +1,3 @@
-file:///home/mossatto/portfolioAnalyzer/src/initial_load.py {"mtime":1762971972446,"ctime":1762967930109,"size":1342,"etag":"3f5oplcfq1c9","orphaned":false,"typeId":""}
 import psycopg2
 import os
 from dotenv import load_dotenv

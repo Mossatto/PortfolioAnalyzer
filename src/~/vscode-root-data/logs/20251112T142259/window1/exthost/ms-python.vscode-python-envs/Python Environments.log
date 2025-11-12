@@ -116,3 +116,27 @@
 2025-11-12 14:23:10.536 [info] Python API: Changed environment from undefined to venv (3.11.6) for: /home/mossatto/portfolioAnalyzer/src
 2025-11-12 14:23:10.536 [info] Internal: Changed environment from undefined to venv (3.11.6) for: /home/mossatto/portfolioAnalyzer/src
 2025-11-12 14:23:10.558 [info] Terminal is activated: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 15:50:32.301 [info] getAllExtraSearchPaths completed. Total unique search directories: 0 Paths: []
+2025-11-12 15:50:32.307 [info] Discovered env: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-12 15:50:32.346 [info] Discovered env: /bin/python3
+2025-11-12 15:50:32.351 [info] Discovered env: /usr/bin/python3
+2025-11-12 15:50:32.361 [info] Discovered env: /bin/python3.10
+2025-11-12 15:50:32.365 [info] Discovered env: /usr/bin/python3.10
+2025-11-12 15:50:32.391 [info] [pet] Locator Conda took 35.300298ms
+2025-11-12 15:50:32.391 [info] [pet] Locator Homebrew took 355.802µs
+2025-11-12 15:50:32.391 [info] [pet] Locator LinuxGlobal took 60.136716ms
+2025-11-12 15:50:32.391 [info] [pet] Locator PipEnv took 18.664µs
+2025-11-12 15:50:32.392 [info] [pet] Locator Pixi took 25.864µs
+2025-11-12 15:50:32.392 [info] [pet] Locator Poetry took 1.121652ms
+2025-11-12 15:50:32.392 [info] [pet] Locator PyEnv took 288.207µs
+2025-11-12 15:50:32.392 [info] [pet] Locator Venv took 36.489µs
+2025-11-12 15:50:32.392 [info] [pet] Locator VirtualEnv took 69.553µs
+2025-11-12 15:50:32.392 [info] [pet] Locator VirtualEnvWrapper took 100.799µs
+2025-11-12 15:50:32.392 [info] [pet] Locator GlobalVirtualEnvs took 8.279715ms
+2025-11-12 15:50:32.392 [info] [pet] Locator Locators took 61.899721ms
+2025-11-12 15:50:32.392 [info] [pet] Locator Path took 86.42102ms
+2025-11-12 15:50:32.392 [info] [pet] Locator Workspaces took 1.221403ms
+2025-11-12 15:50:32.393 [info] [pet] Telemetry:  {"event":"RefreshPerformance","data":{"refreshPerformance":{"total":86,"breakdown":{"GlobalVirtualEnvs":8,"Locators":61,"Path":86,"Workspaces":1},"locators":{"Conda":35,"Homebrew":0,"LinuxGlobal":60,"PipEnv":0,"Pixi":0,"Poetry":1,"PyEnv":0,"Venv":0,"VirtualEnv":0,"VirtualEnvWrapper":0}}}}
+2025-11-12 15:50:32.393 [info] Found venv environment: venv (3.11.6)
+2025-11-12 15:50:32.394 [info] Python API: Changed environment from venv (3.11.6) to venv (3.11.6) for: /home/mossatto/portfolioAnalyzer/src
+2025-11-12 15:50:32.394 [info] Internal: Changed environment from venv (3.11.6) to venv (3.11.6) for: /home/mossatto/portfolioAnalyzer/src
