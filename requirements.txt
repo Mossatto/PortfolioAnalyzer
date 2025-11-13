@@ -11,3 +11,21 @@ pandas
 # 3. Gerenciamento de Variáveis de Ambiente
 # Para carregar o token/senha do arquivo .env de forma segura (Melhor Prática!)
 python-dotenv
+
+# Conector do Banco de Dados
+psycopg2-binary
+
+# Análise de Dados
+pandas
+
+# Gerenciamento de Credenciais
+python-dotenv
+
+# Framework da API
+fastapi
+
+# Servidor Web (ASGI)
+uvicorn
+
+# Validação de Dados (usado pelo FastAPI)
+pydantic

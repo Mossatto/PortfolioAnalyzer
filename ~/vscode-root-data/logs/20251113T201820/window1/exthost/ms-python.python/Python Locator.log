@@ -1,0 +1,27 @@
+2025-11-13 20:18:25.668 [info] Starting Python Locator /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python-env-tools/bin/pet server
+2025-11-13 20:18:25.678 [info] Discovered env: /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-13 20:18:25.725 [info] Discovered env: /usr/bin/python3
+2025-11-13 20:18:25.726 [info] Discovered env: /bin/python3
+2025-11-13 20:18:25.730 [info] Discovered env: /usr/bin/python3.10
+2025-11-13 20:18:25.790 [info] Discovered env: /bin/python3.10
+2025-11-13 20:18:25.791 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-13 20:18:25.793 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-13 20:18:25.796 [info] Locator Conda took 39.523311ms
+2025-11-13 20:18:25.796 [info] Locator Homebrew took 87.582µs
+2025-11-13 20:18:25.796 [info] Locator LinuxGlobal took 125.506692ms
+2025-11-13 20:18:25.796 [info] Locator PipEnv took 292.64µs
+2025-11-13 20:18:25.796 [info] Locator Pixi took 910.327µs
+2025-11-13 20:18:25.796 [info] Locator Poetry took 2.881841ms
+2025-11-13 20:18:25.796 [info] Locator PyEnv took 725.105µs
+2025-11-13 20:18:25.797 [info] Locator Venv took 26.261µs
+2025-11-13 20:18:25.797 [info] Locator VirtualEnv took 105.951µs
+2025-11-13 20:18:25.797 [info] Locator VirtualEnvWrapper took 252.201µs
+2025-11-13 20:18:25.797 [info] Locator GlobalVirtualEnvs took 28.173347ms
+2025-11-13 20:18:25.797 [info] Locator Locators took 127.592188ms
+2025-11-13 20:18:25.797 [info] Locator Path took 176.9554ms
+2025-11-13 20:18:25.797 [info] Locator Workspaces took 27.658886ms
+2025-11-13 20:18:25.797 [info] Refresh completed in 177ms
+2025-11-13 20:20:09.025 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-13 20:20:46.993 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-13 20:22:35.090 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-13 20:30:58.748 [info] Resolved Python Environment /home/mossatto/portfolioAnalyzer/venv/bin/python

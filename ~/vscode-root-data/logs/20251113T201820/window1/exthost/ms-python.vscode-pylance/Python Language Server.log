@@ -1,0 +1,20 @@
+2025-11-13 20:18:24.972 [info] (Client) Pylance client (2025.9.1) started with python extension (Unknown)
+2025-11-13 20:18:26.290 [info] (283306) Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-13 20:18:26.290 [info] (283306) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-13 20:18:26.296 [info] (283306) Starting service instance "portfolioAnalyzer" for workspace "/home/mossatto/portfolioAnalyzer"
+2025-11-13 20:18:26.318 [info] Failed to get active python environment for MCP server. MCP server disabled.
+2025-11-13 20:18:26.480 [info] (283306) No include entries specified; assuming /home/mossatto/portfolioAnalyzer
+2025-11-13 20:18:26.480 [info] (283306) Auto-excluding **/node_modules
+2025-11-13 20:18:26.481 [info] (283306) Auto-excluding **/__pycache__
+2025-11-13 20:18:26.481 [info] (283306) Auto-excluding **/.*
+2025-11-13 20:18:26.513 [info] (283306) Assuming Python version 3.11.6.final.0
+2025-11-13 20:18:26.569 [info] (283306) Settings have not changed. Skipping update.
+2025-11-13 20:18:26.599 [info] (283306) Auto-excluding /home/mossatto/portfolioAnalyzer/venv
+2025-11-13 20:18:26.609 [info] (283306) Found 15 source files
+2025-11-13 20:18:27.132 [info] (283306) BG: Priority queue background worker(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-13 20:18:27.133 [info] (283306) BG: Priority queue background worker(2) started
+2025-11-13 20:20:09.801 [info] (283306) BG: Indexer background runner(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-13 20:20:09.801 [info] (283306) BG: Indexing(3) started
+2025-11-13 20:20:10.152 [info] (283306) BG: scanned(3) 58 files over 1 exec env
+2025-11-13 20:20:11.152 [info] (283306) BG: indexed(3) 58 files over 1 exec env
+2025-11-13 20:20:11.173 [info] (283306) BG: Indexing finished(3).

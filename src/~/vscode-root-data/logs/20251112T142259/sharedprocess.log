@@ -57,3 +57,41 @@
 2025-11-12 15:15:42.984 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.106.0.
 2025-11-12 15:15:42.988 [info] Extensions added from another source ms-toolsai.jupyter vscode-userdata:/root/.vscode/extensions/extensions.json
 2025-11-12 15:15:43.051 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.106.0.
+2025-11-13 16:03:17.657 [info] Getting Manifest... ms-python.debugpy
+2025-11-13 16:03:17.657 [info] Getting Manifest... ms-python.python
+2025-11-13 16:03:17.660 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-11-13 16:03:18.085 [info] Getting Manifest... ms-toolsai.jupyter
+2025-11-13 16:03:18.134 [info] Installing extension: ms-python.vscode-python-envs {"productVersion":{"version":"1.105.1","date":"2025-10-14T22:32:01.665Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-13 16:03:18.136 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.105.1","date":"2025-10-14T22:32:01.665Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-13 16:03:18.140 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.105.1","date":"2025-10-14T22:32:01.665Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-13 16:03:18.173 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.105.1. Extension requires: ^1.106.0.
+2025-11-13 16:03:18.214 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.105.1. Extension requires: ^1.106.0.
+2025-11-13 16:03:18.289 [info] Getting Manifest... ms-python.python
+2025-11-13 16:03:18.307 [info] Installing extension: ms-toolsai.jupyter {"installPreReleaseVersion":true,"productVersion":{"version":"1.105.1","date":"2025-10-14T22:32:01.665Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-13 16:03:18.327 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.105.1. Extension requires: ^1.106.0.
+2025-11-13 16:03:18.341 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.105.1. Extension requires: ^1.106.0.
+2025-11-13 16:03:18.367 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.105.1. Extension requires: ^1.106.0.
+2025-11-13 16:03:18.390 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.106.0.
+2025-11-13 16:03:18.391 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.105.0.
+2025-11-13 16:03:18.392 [error] Error while installing the extension ms-toolsai.jupyter Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64 vscode-userdata:/root/.vscode/extensions/extensions.json
+2025-11-13 16:03:19.578 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 732ms.
+2025-11-13 16:03:19.586 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 726ms.
+2025-11-13 16:03:19.824 [info] Extracted extension to file:///root/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64: ms-python.vscode-python-envs
+2025-11-13 16:03:19.833 [info] Renamed to /root/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64
+2025-11-13 16:03:19.853 [info] Marked extension as removed ms-python.vscode-python-envs-1.10.0-linux-x64
+2025-11-13 16:03:19.861 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.105.0.
+2025-11-13 16:03:19.861 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.106.0.
+2025-11-13 16:03:19.864 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/root/.vscode/extensions/extensions.json
+2025-11-13 16:03:20.175 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 741ms.
+2025-11-13 16:03:20.649 [info] Extracted extension to file:///root/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64: ms-python.debugpy
+2025-11-13 16:03:20.665 [info] Renamed to /root/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64
+2025-11-13 16:03:20.692 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.106.0.
+2025-11-13 16:03:20.694 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.105.0.
+2025-11-13 16:03:20.694 [info] Marked extension as removed ms-python.debugpy-2025.14.1-linux-x64
+2025-11-13 16:03:20.696 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/root/.vscode/extensions/extensions.json
+2025-11-13 16:03:21.137 [info] Extracted extension to file:///root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64: ms-python.python
+2025-11-13 16:03:21.213 [info] Renamed to /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64
+2025-11-13 16:03:21.239 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.106.0.
+2025-11-13 16:03:21.240 [error] [/root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64]: Extension is not compatible with Code 1.104.2. Extension requires: ^1.105.0.
+2025-11-13 16:03:21.241 [info] Marked extension as removed ms-python.python-2025.16.0-linux-x64
+2025-11-13 16:03:21.243 [info] Extension installed successfully: ms-python.python vscode-userdata:/root/.vscode/extensions/extensions.json

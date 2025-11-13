@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/mossatto/portfolioAnalyzer/venv/bin/python",
+    "prefix": "/home/mossatto/portfolioAnalyzer/venv",
+    "version": "3.11.6.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/mossatto/portfolioAnalyzer/venv/bin/python",
+      "/home/mossatto/portfolioAnalyzer/venv/bin/python3",
+      "/home/mossatto/portfolioAnalyzer/venv/bin/python3.11"
+    ]
+  },
+  "symlinks": []
+}

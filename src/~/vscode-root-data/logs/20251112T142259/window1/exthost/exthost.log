@@ -19,3 +19,17 @@
 2025-11-12 14:23:09.869 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
 2025-11-12 14:23:10.936 [error] TypeError: Cannot set properties of undefined (setting 'name')
 	at /root/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist/extension.bundle.js:1:198162
+2025-11-13 20:18:32.004 [info] Extension host terminating: renderer closed the MessagePort
+2025-11-13 20:18:32.034 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/root/.vscode/extensions/ms-python.vscode-python-envs-1.10.0-linux-x64/dist/extension.js:2:668401)
+	at aJ.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+	at Array.map (<anonymous>)
+	at aJ.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+	at aJ.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+	at RP.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at bs (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-11-13 20:18:32.040 [info] Extension host with pid 246621 exiting with code 0

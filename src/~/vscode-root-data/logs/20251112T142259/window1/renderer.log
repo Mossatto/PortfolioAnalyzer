@@ -15,3 +15,6 @@
     at Bh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75044)
     at async zh.h (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:80286)
 2025-11-12 15:15:10.107 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /root/.vscode/extensions/ms-python.debugpy-2025.8.0-linux-x64/.noConfigDebugAdapterEndpoints)
+2025-11-13 16:03:16.652 [info] Auto updating outdated extensions. ms-python.debugpy, ms-python.python, ms-toolsai.jupyter, ms-python.vscode-python-envs
+2025-11-13 16:03:18.395 [error] Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64: ScanningExtension: Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.9.1-linux-x64
+    at Bh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75044)

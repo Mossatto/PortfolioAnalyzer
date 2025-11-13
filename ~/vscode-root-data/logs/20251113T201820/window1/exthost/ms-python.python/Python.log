@@ -1,0 +1,56 @@
+2025-11-13 20:18:25.592 [info] Experiment 'pythonSurveyNotification' is active
+2025-11-13 20:18:25.604 [info] Native locator: Refresh started
+2025-11-13 20:18:25.701 [info] Native locator: Refresh started
+2025-11-13 20:18:25.712 [info] VS Code was launched from an activated environment: 'venv', selecting it as the interpreter for workspace.
+2025-11-13 20:18:25.772 [info] Active interpreter [/home/mossatto/portfolioAnalyzer]:  /home/mossatto/portfolioAnalyzer/venv/bin/python
+2025-11-13 20:18:25.784 [info] > pyenv which python
+2025-11-13 20:18:25.784 [info] cwd: .
+2025-11-13 20:18:25.792 [info] Python interpreter path: ./venv/bin/python
+2025-11-13 20:18:25.800 [info] Native locator: Refresh finished in 194 ms
+2025-11-13 20:18:26.314 [info] Starting Pylance language server.
+2025-11-13 20:18:35.835 [info] Running installed packages checker:  {
+  id: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  sysPrefix: '/home/mossatto/portfolioAnalyzer/venv',
+  envType: 'Venv',
+  envName: 'venv',
+  envPath: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  path: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  architecture: 3,
+  sysVersion: '',
+  version: {
+    raw: '3.11.6',
+    major: 3,
+    minor: 11,
+    patch: 6,
+    build: [],
+    prerelease: []
+  },
+  displayName: 'Python 3.11.6 (venv)',
+  detailedDisplayName: 'Python 3.11.6 (venv)',
+  type: 'Virtual'
+} /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py /home/mossatto/portfolioAnalyzer/requirements.txt
+2025-11-13 20:18:35.835 [info] > ./venv/bin/python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-11-13 20:20:09.998 [info] > conda info --json
+2025-11-13 20:20:45.830 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/app.py
+2025-11-13 20:20:47.564 [info] Running installed packages checker:  {
+  id: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  sysPrefix: '/home/mossatto/portfolioAnalyzer/venv',
+  envType: 'Venv',
+  envName: 'venv',
+  envPath: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  path: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  architecture: 3,
+  sysVersion: '',
+  version: {
+    raw: '3.11.6',
+    major: 3,
+    minor: 11,
+    patch: 6,
+    build: [],
+    prerelease: []
+  },
+  displayName: 'Python 3.11.6 (venv)',
+  detailedDisplayName: 'Python 3.11.6 (venv)',
+  type: 'Virtual'
+} /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py /home/mossatto/portfolioAnalyzer/requirements.txt
+2025-11-13 20:20:47.564 [info] > ./venv/bin/python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py ./requirements.txt
