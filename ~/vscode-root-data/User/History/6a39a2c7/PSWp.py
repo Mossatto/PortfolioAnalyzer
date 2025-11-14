@@ -28,23 +28,6 @@ def calculate_average_price(df_transactions: pd.DataFrame) -> pd.DataFrame:
     
     return analysis[['ticker', 'average_price']]
 
-
-def get_metrics_for_ticker(ticker: str) -> pd.DataFrame:
-    """
-    Função de serviço que orquestra a busca e o cálculo do PM 
-    para um ticker específico.
-    """
-    # 1. Delega a busca ao repositório
-    df_transactions = get_buy_transactions_by_ticker(ticker)
-    
-    if df_transactions.empty:
-        return pd.DataFrame() # Retorna vazio se não houver dados
-
-    # 2. Reutiliza a lógica de cálculo
-    df_pm = calculate_average_price(df_transactions)
-    
-    return df_pm
-
 # O ponto de execução principal (main) é o orquestrador:
 if __name__ == "__main__":
     print("--- INICIANDO SERVIÇO DE ANÁLISE DE PORTFÓLIO ---")

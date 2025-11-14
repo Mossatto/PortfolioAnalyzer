@@ -54,3 +54,8 @@
   type: 'Virtual'
 } /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py /home/mossatto/portfolioAnalyzer/requirements.txt
 2025-11-13 20:20:47.564 [info] > ./venv/bin/python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-11-13 20:43:33.278 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/app.py
+2025-11-13 20:50:47.513 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/data_repository.py
+2025-11-13 20:50:49.250 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/analysis_logic.py
+2025-11-13 20:51:13.153 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/analysis_logic.py
+2025-11-13 20:53:24.066 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/app.py
