@@ -59,3 +59,83 @@
 2025-11-13 20:50:49.250 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/analysis_logic.py
 2025-11-13 20:51:13.153 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/analysis_logic.py
 2025-11-13 20:53:24.066 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/app.py
+2025-11-13 21:12:40.866 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py
+2025-11-13 21:13:54.492 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py
+2025-11-13 21:14:39.812 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py
+2025-11-13 21:15:55.262 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/pytest.ini
+2025-11-13 21:22:01.664 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py
+2025-11-13 21:22:21.772 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py
+2025-11-13 21:30:30.633 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
+2025-11-13 21:30:32.353 [info] Running installed packages checker:  {
+  id: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  sysPrefix: '/home/mossatto/portfolioAnalyzer/venv',
+  envType: 'Venv',
+  envName: 'venv',
+  envPath: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  path: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  architecture: 3,
+  sysVersion: '',
+  version: {
+    raw: '3.11.6',
+    major: 3,
+    minor: 11,
+    patch: 6,
+    build: [],
+    prerelease: []
+  },
+  displayName: 'Python 3.11.6 (venv)',
+  detailedDisplayName: 'Python 3.11.6 (venv)',
+  type: 'Virtual'
+} /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py /home/mossatto/portfolioAnalyzer/requirements.txt
+2025-11-13 21:30:32.353 [info] > ./venv/bin/python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-11-13 21:31:59.705 [info] Running installed packages checker:  {
+  id: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  sysPrefix: '/home/mossatto/portfolioAnalyzer/venv',
+  envType: 'Venv',
+  envName: 'venv',
+  envPath: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  path: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  architecture: 3,
+  sysVersion: '',
+  version: {
+    raw: '3.11.6',
+    major: 3,
+    minor: 11,
+    patch: 6,
+    build: [],
+    prerelease: []
+  },
+  displayName: 'Python 3.11.6 (venv)',
+  detailedDisplayName: 'Python 3.11.6 (venv)',
+  type: 'Virtual'
+} /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py /home/mossatto/portfolioAnalyzer/requirements.txt
+2025-11-13 21:31:59.705 [info] > ./venv/bin/python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-11-13 21:33:37.981 [info] Running installed packages checker:  {
+  id: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  sysPrefix: '/home/mossatto/portfolioAnalyzer/venv',
+  envType: 'Venv',
+  envName: 'venv',
+  envPath: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  path: '/home/mossatto/portfolioAnalyzer/venv/bin/python',
+  architecture: 3,
+  sysVersion: '',
+  version: {
+    raw: '3.11.6',
+    major: 3,
+    minor: 11,
+    patch: 6,
+    build: [],
+    prerelease: []
+  },
+  displayName: 'Python 3.11.6 (venv)',
+  detailedDisplayName: 'Python 3.11.6 (venv)',
+  type: 'Virtual'
+} /root/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py /home/mossatto/portfolioAnalyzer/requirements.txt
+2025-11-13 21:33:37.981 [info] > ./venv/bin/python ~/.vscode/extensions/ms-python.python-2025.18.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-11-13 21:34:43.029 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
+2025-11-13 21:36:27.501 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
+2025-11-13 21:42:05.092 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/app.py
+2025-11-13 21:44:23.432 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
+2025-11-13 21:44:37.976 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
+2025-11-13 21:45:06.783 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
+2025-11-13 21:47:30.601 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/app.py

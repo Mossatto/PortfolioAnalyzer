@@ -2,7 +2,6 @@
 fastapi
 uvicorn
 pydantic
-httpx
 
 # Banco de Dados e Análise (Data Layer)
 psycopg2-binary

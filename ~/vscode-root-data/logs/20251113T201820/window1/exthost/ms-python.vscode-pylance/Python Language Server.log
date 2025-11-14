@@ -18,3 +18,13 @@
 2025-11-13 20:20:10.152 [info] (283306) BG: scanned(3) 58 files over 1 exec env
 2025-11-13 20:20:11.152 [info] (283306) BG: indexed(3) 58 files over 1 exec env
 2025-11-13 20:20:11.173 [info] (283306) BG: Indexing finished(3).
+2025-11-13 21:42:04.016 [info] (283306) Starting service instance "<default>" for workspace ""
+2025-11-13 21:42:04.069 [info] (283306) No include entries specified; assuming /<default workspace root>
+2025-11-13 21:42:04.069 [info] (283306) Auto-excluding **/node_modules
+2025-11-13 21:42:04.069 [info] (283306) Auto-excluding **/__pycache__
+2025-11-13 21:42:04.069 [info] (283306) Auto-excluding **/.*
+2025-11-13 21:42:04.113 [info] (283306) Assuming Python version 3.11.6.final.0
+2025-11-13 21:42:04.185 [error] (283306) File or directory "/<default workspace root>" does not exist.
+2025-11-13 21:42:04.186 [info] (283306) No source files found.
+2025-11-13 21:42:04.895 [info] (283306) BG: Priority queue background worker(5) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-13 21:42:04.897 [info] (283306) BG: Priority queue background worker(5) started

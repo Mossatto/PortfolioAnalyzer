@@ -16,7 +16,11 @@ class AssetMetric(BaseModel):
     ticker: str
     average_price: float
     model_config = ConfigDict(from_attributes=True)
-   
+    
+    # Configuração Pydantic (Permite a criação a partir de atributos de objetos)
+    class Config:
+        from_attributes = True
+
 # ---------------------------------------------------------------------
 # 2. Configuração do FastAPI
 # ---------------------------------------------------------------------
