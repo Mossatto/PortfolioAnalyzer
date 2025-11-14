@@ -49,7 +49,7 @@ jobs:
         with:
           # Argumentos para o scanner do Sonar
           args: >
-            -Dsonar.organization=Mossatto
+            -Dsonar.organization=mossatto
             -Dsonar.projectKey=PortfolioAnalyzer
             -Dsonar.python.coverage.reportPaths=coverage.xml
             -Dsonar.sources=src
