@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 import psycopg2
 
-# Load environment variables securely !
+# Load environment variables securely ! !!
 load_dotenv()
 
 # --- DATABASE CONFIGURATION ---
