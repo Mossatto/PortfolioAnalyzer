@@ -6,14 +6,14 @@ from .db_connector import create_connection, SCHEMA_NAME
 # DEFINITION OF DML QUERIES (Data Manipulation Language - INSERT)
 # ====================================================================
 
-SQL_INSERT_USER = f"""
+SQL_INSERT_USER = """
 INSERT INTO "user" (user_name) 
 VALUES ('Matheus Mossatto')
 ON CONFLICT (user_id) DO NOTHING 
 RETURNING user_id;
 """
 
-SQL_INSERT_ASSETS = f"""
+SQL_INSERT_ASSETS = """
 INSERT INTO asset (user_id, ticker, full_name, asset_type, sector)
 VALUES
     (1, 'PETR4', 'Petroleo Brasileiro S.A. Pref', 'STOCK', 'Oil & Gas'),
@@ -22,7 +22,7 @@ VALUES
 ON CONFLICT (ticker) DO NOTHING;
 """
 
-SQL_INSERT_TRANSACTIONS = f"""
+SQL_INSERT_TRANSACTIONS = """
 INSERT INTO transaction (asset_id, transaction_date, transaction_type, quantity, unit_price, total_value)
 VALUES
     (1, '2024-01-10', 'BUY', 100, 30.50, 3050.00), 
@@ -35,7 +35,7 @@ VALUES
 # ====================================================================
 
 # Query para extrair as transações de compra necessárias para o cálculo do PM
-SQL_GET_BUY_TRANSACTIONS = f"""
+SQL_GET_BUY_TRANSACTIONS = """
 SET search_path TO {SCHEMA_NAME}, public;
 SELECT 
     a.ticker,

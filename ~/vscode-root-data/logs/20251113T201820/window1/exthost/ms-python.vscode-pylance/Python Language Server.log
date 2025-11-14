@@ -28,3 +28,42 @@
 2025-11-13 21:42:04.186 [info] (283306) No source files found.
 2025-11-13 21:42:04.895 [info] (283306) BG: Priority queue background worker(5) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
 2025-11-13 21:42:04.897 [info] (283306) BG: Priority queue background worker(5) started
+2025-11-14 09:29:16.573 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:16.763 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:16.847 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:19.820 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:19.973 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:24.948 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:27.186 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:28.972 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:29.173 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:29.271 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:29.370 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:29.473 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:30.345 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:30.408 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:30.492 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:30.547 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:29:33.420 [info] (283306) Applying 0 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py for document transformation.
+2025-11-14 09:30:20.446 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:20.518 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:20.645 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:20.694 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:22.290 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:26.178 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:28.604 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:28.763 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:28.930 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:29.627 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:29.846 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:31.586 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:31.754 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:31.899 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:32.610 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:37.637 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:38.182 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:38.579 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:38.648 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:38.744 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:38.781 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.
+2025-11-14 09:30:41.856 [info] (283306) Applying 1 edits to document file:///home/mossatto/portfolioAnalyzer/tests/test_app.py for document transformation.

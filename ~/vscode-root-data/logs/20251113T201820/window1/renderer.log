@@ -19,3 +19,6 @@ product.json (WINS): terminalShellEnv
 2025-11-13 20:18:51.014 [info] Auto updating outdated extensions. ms-toolsai.jupyter
 2025-11-13 20:18:52.563 [error] Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64: ScanningExtension: Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64
     at Bh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75044)
+2025-11-14 08:18:25.363 [info] Auto updating outdated extensions. ms-toolsai.jupyter
+2025-11-14 08:18:27.262 [error] Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64: ScanningExtension: Cannot read the extension from /root/.vscode/extensions/ms-toolsai.jupyter-2025.10.2025101002-linux-x64
+    at Bh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75044)

@@ -5,17 +5,17 @@ CREATE TYPE transaction_type_enum AS ENUM ('BUY', 'SELL', 'DIVIDEND', 'ADJUST');
 
 CREATE TABLE "user" (
     user_id SERIAL PRIMARY KEY,
-    user_name VARCHAR(100) NOT NULL,
+    user_name VARCHAR2(100) NOT NULL,
     created_at TIMESTAMP WITHOUT TIME ZONE DEFAULT NOW()
 );
 
 CREATE TABLE asset (
     asset_id SERIAL PRIMARY KEY,
     user_id INTEGER NOT NULL,
-    ticker VARCHAR(10) UNIQUE NOT NULL,
-    full_name VARCHAR(100) NOT NULL,
-    asset_type VARCHAR(20),
-    sector VARCHAR(50),
+    ticker VARCHAR2(10) UNIQUE NOT NULL,
+    full_name VARCHAR2(100) NOT NULL,
+    asset_type VARCHAR2(20),
+    sector VARCHAR2(50),
     CONSTRAINT fk_user FOREIGN KEY (user_id)
         REFERENCES "user" (user_id)
         ON DELETE CASCADE

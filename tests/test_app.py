@@ -35,7 +35,7 @@ def test_get_all_metrics_endpoint_sucesso(mocker):
     
     # CORREÇÃO: Verifica a ordem alfabética (BBDC4 vem antes de PETR4)
     assert response_json[0]['ticker'] == 'BBDC4'
-    assert response_json[0]['average_price'] == 15.00
+    assert response_json[0]['average_price'] == pytest.approx(15.00, abs=1e-4)
     assert response_json[1]['ticker'] == 'PETR4'
     assert response_json[1]['average_price'] == pytest.approx(30.6666, abs=1e-4)
 

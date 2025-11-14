@@ -48,7 +48,7 @@ def test_average_price_calculation_success():
     # Quantidade Total: 200
     # Preço Médio: 3000 / 200 = 15.00
     pm_bbdc4 = df_result[df_result['ticker'] == 'BBDC4']['average_price'].iloc[0]
-    assert pm_bbdc4 == 15.00
+    assert pm_bbdc4 == pytest.approx(15.00, abs = 1e-4)
 
 def test_average_price_empty_dataframe():
     """

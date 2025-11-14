@@ -139,3 +139,6 @@
 2025-11-13 21:44:37.976 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
 2025-11-13 21:45:06.783 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
 2025-11-13 21:47:30.601 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/app.py
+2025-11-14 09:29:40.070 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_analysis_service.py
+2025-11-14 09:30:43.923 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/tests/test_app.py
+2025-11-14 09:34:41.949 [info] Discover tests for workspace name: portfolioAnalyzer - uri: /home/mossatto/portfolioAnalyzer/src/data_repository.py
