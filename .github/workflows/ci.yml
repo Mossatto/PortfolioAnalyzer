@@ -1,24 +1,25 @@
 # Nome do Workflow
 name: CI - Python Application Quality Check
 
-# Gatilhos (Triggers): Quando rodar
+# Gatilhos (Triggers):
 on:
   push:
-    branches: [ master ] # Roda em todo push para a branch 'master'
+    branches: [ master ]
   pull_request:
-    branches: [ main ] # Roda em todo Pull Request para a 'main'
+    branches: [ main ]
 
-# Tarefas (Jobs): O que fazer
 jobs:
   build-and-test:
-    # Sistema operacional que a máquina virtual do GitHub usará
     runs-on: ubuntu-latest
 
     steps:
       # 1. Checkout do Código
-      # Baixa o seu código (do push) para a máquina virtual
       - name: Check-out repository
         uses: actions/checkout@v4
+        with:
+          # (Importante para o SonarQube)
+          # Faz o checkout completo do histórico, necessário para a análise de "blame"
+          fetch-depth: 0
 
       # 2. Configurar o Ambiente Python
       - name: Set up Python 3.11
@@ -27,18 +28,30 @@ jobs:
           python-version: '3.11'
 
       # 3. Instalar Dependências
-      # Instala as bibliotecas do seu requirements.txt
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Rodar os Testes (O passo mais importante)
-      # Executa o pytest e gera o relatório de cobertura
+      # 4. Rodar os Testes (Gerando o relatório que o Sonar precisa)
       - name: Run Pytest and Generate Coverage
         run: |
           pytest --cov=src --cov-report=xml
-          
-      # 5. (Opcional - Próximo Passo) Rodar SonarQube
-      # Por enquanto, esta etapa garante que os testes passem.
-      # A integração com o Sonar virá a seguir.
+
+    
+      # -----------------------------------------------------
+      - name: SonarCloud Scan
+        # Usa a "Action" oficial do SonarSource
+        uses: SonarSource/sonarcloud-github-action@master
+        env:
+          # Puxa o Token que você salvou no GitHub Secrets
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token padrão do GitHub
+        with:
+          # Argumentos para o scanner do Sonar
+          args: >
+            -Dsonar.organization=mossatto
+            -Dsonar.projectKey=PortfolioAnalyzer
+            -Dsonar.python.coverage.reportPaths=coverage.xml
+            -Dsonar.sources=src
+            -Dsonar.tests=tests
