@@ -7,3 +7,5 @@ venv/
 # Arquivos de Segurança
 .env
 token.txt
+# VS Code logs from running as root
+*vscode-root-data*
