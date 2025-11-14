@@ -41,8 +41,8 @@ jobs:
     
       # -----------------------------------------------------
       - name: SonarCloud Scan
-        # CORREÇÃO: Usando o SHA hash da versão v2.2.0 (a correta para SonarCloud)
-        uses: SonarSource/sonarcloud-github-action@bca377311140049f3a61f2f01f4682701f6f1f45
+        # CORREÇÃO: Usando a tag da versão estável v2.2.0
+        uses: SonarSource/sonarcloud-github-action@v2.2.0
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
